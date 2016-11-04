@@ -1,4 +1,4 @@
-
+jekyll serve --host $IP --port $PORT
 
 The MIT License (MIT)
 
