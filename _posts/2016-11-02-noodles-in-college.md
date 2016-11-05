@@ -6,6 +6,7 @@ comments: true
 tags:
 - programming
 - life
+- test
 ---
 
 This is a test blog post!
