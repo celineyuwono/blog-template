@@ -184,9 +184,10 @@ a {
     padding: 10px;
     font-size: 22px; //nav button was 18px
     border: 5px solid transparent;
+    color: black;
     &:hover {
 	background-color: transparent !important;
-	color: black !important;//It was $brand-color
+	color: gray !important;//It was $brand-color
 	border-bottom: 5px solid black;//It was $brand-color before but I changed it to black
 	transition: 0.8s;
     }
