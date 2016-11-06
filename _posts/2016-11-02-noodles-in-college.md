@@ -11,7 +11,6 @@ tags:
 
 <div align="center">
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0757.JPG" width="597" height="336"/><br/><br/>
-    <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0758.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0760.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0761.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0762.JPG" width="597" height="336"/><br/><br/>
@@ -29,6 +28,7 @@ tags:
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0781.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0784.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0782.JPG" width="597" height="336"/><br/><br/>
+    <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0758.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0786.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0785.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0756.JPG" width="597" height="336"/><br/><br/>
