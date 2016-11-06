@@ -182,16 +182,16 @@ a {
 
 .nav-button{
     padding: 10px;
-    font-size: 18px; //nav button is 18px
+    font-size: 22px; //nav button was 18px
     border: 5px solid transparent;
     &:hover {
 	background-color: transparent !important;
-	color: $brand-color !important;
-	border-bottom: 5px solid $brand-color;
+	color: black !important;//It was $brand-color
+	border-bottom: 5px solid black;//It was $brand-color before but I changed it to black
 	transition: 0.8s;
     }
     &:visited {
-    	background-color: white !important;
+    	background-color: transparent !important;
     }
 }
 
