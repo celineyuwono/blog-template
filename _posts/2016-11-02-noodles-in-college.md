@@ -4,10 +4,11 @@ title:  "First Survival Food: Collegemade Carbonara Gnocchi"
 date:   2016-11-02 09:32:03 -0800
 comments: true
 tags:
-- programming
-- life
-- test
+- Pasta
+- Italian
 ---
+
+Hello, you dont need <p> tags to write, just write it right away.
 
 <p> Looking inside our fridge, we have potatos and flour, and the idea of making Gnocchi came up. So we created our very own collegemade Gnocchi. Gnocchi is a type of pasta that is made of potatoes and flour. </p>
 <p> Since we are in college, we are adjusting the recipe to meet with our time, ability, and pocket. Our measurements might not be exact, too, so it creates a space for us to be more creative and just go with the flow.</p>
