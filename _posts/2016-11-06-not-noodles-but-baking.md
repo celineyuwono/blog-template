@@ -8,6 +8,13 @@ tags:
 - Not Noodles
 ---
 
+Baking time! We made this for our breakfast. So good!
+
+Ingredients we used: <br/>
+Pillsbury Original Crescent roll <br/>
+Pepperoni <br/>
+Parmesan <br/>
+
 <div align="center">
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0796.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0797.JPG" width="597" height="336"/><br/><br/>
@@ -18,6 +25,7 @@ tags:
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0802.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0803.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0804.JPG" width="597" height="336"/><br/><br/>
+    Roll roll roll roll
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0805.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0806.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0807.JPG" width="597" height="336"/><br/><br/>
@@ -26,3 +34,4 @@ tags:
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0812.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-06/DSC_0811.JPG" width="597" height="336"/><br/><br/>
 </div>
+Easy quick and delicious breakfast! :D

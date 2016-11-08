@@ -9,7 +9,7 @@ tags:
 
 Yeyeyey, it's weekend, and we are making rappoki today! Rappoki is a combination of ramyun (Korean instant noodle) and Tteokbokki (Korean rice cake). That is why Koreans call it Rappoki.
 <br/>
-So all the ingredients that we used are: 
+So all the ingredients that we used are: <br/>
 Rice cake <br/>
 Gochujang (Red spice Korean paste) <br/>
 Eggs <br/>
