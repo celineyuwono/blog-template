@@ -9,9 +9,11 @@ tags:
 - Test
 ---
 
+<div align="center">
+
 Looking inside our fridge, we have potatos and flour, and the idea of making Gnocchi came up. So we created our very own collegemade Gnocchi. Gnocchi is a type of pasta that is made of potatoes and flour.
 Since we are in college, we are adjusting the recipe to meet with our time, ability, and pocket. Our measurements might not be exact, too, so it creates a space for us to be more creative and just go with the flow.
-<div align="center">
+
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0757.JPG" width="597" height="336"/><br/>
         We used 7 peeled potatoes and microwave them until all the potatoes became soft
     <br/>
