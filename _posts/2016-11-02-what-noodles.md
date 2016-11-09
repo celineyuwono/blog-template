@@ -6,9 +6,8 @@ comments: true
 tags:
 - Pasta
 - Not noodles
+- Test
 ---
-
-Hello, you dont need <p> tags to write, just write it right away.
 
 Looking inside our fridge, we have potatos and flour, and the idea of making Gnocchi came up. So we created our very own collegemade Gnocchi. Gnocchi is a type of pasta that is made of potatoes and flour.
 Since we are in college, we are adjusting the recipe to meet with our time, ability, and pocket. Our measurements might not be exact, too, so it creates a space for us to be more creative and just go with the flow.
@@ -43,7 +42,7 @@ Since we are in college, we are adjusting the recipe to meet with our time, abil
     <br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0772.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0773.JPG" width="597" height="336"/><br/><br/>
-    Stir fry garlic and mushroom
+        Stir fry garlic and mushroom <br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0774.JPG" width="597" height="336"/><br/><br/>
     After it smells good, don't forget to put bacon and spinach  ;D
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0778.JPG" width="597" height="336"/><br/><br/>
@@ -55,7 +54,7 @@ Since we are in college, we are adjusting the recipe to meet with our time, abil
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0782.JPG" width="597" height="336"/><br/><br/>
     Taste good!
     <br/><br/>
-    We also made potato chips along with gnochhi. We make use of all the resources we have haha
+    We also made potato chips along with gnocchi. We make use of all the resources we have haha
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0758.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0786.JPG" width="597" height="336"/><br/><br/>
     <img src="{{ site.baseurl }}/img/2016-11-02/DSC_0785.JPG" width="597" height="336"/><br/><br/>
